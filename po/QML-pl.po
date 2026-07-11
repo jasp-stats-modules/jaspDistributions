@@ -3177,10 +3177,6 @@ msgctxt "DistributionSpecification|"
 msgid "ν (drift), α (threshold), σ (noise), shift"
 msgstr ""
 
-msgctxt "DistributionSpecification|"
-msgid "default"
-msgstr ""
-
 #, fuzzy
 msgctxt "DistributionSpecification|"
 msgid "Normal"
@@ -3377,670 +3373,6 @@ msgctxt "DistributionSpecification|"
 msgid "Parameters"
 msgstr "Parametry"
 
-msgctxt "Amoroso|"
-msgid "a (location)"
-msgstr ""
-
-msgctxt "Amoroso|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Amoroso|"
-msgid "θ (scale)"
-msgstr ""
-
-msgctxt "Amoroso|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "Amoroso|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "Beta|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "Beta|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Beta|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "BetaPrime|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "BetaPrime|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "BetaPrime|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "Cauchy|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "Cauchy|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Cauchy|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "CentralF|"
-msgid "ν₁ (df)"
-msgstr ""
-
-msgctxt "CentralF|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "CentralF|"
-msgid "ν₂ (df)"
-msgstr ""
-
-msgctxt "ChiSquared|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "ChiSquared|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Exponential|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "Exponential|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Exponential|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "Frechet|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "Frechet|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Frechet|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "Frechet|"
-msgid "θ (location)"
-msgstr ""
-
-msgctxt "Gamma|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "Gamma|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Gamma|"
-msgid "θ (scale)"
-msgstr ""
-
-msgctxt "Gamma|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "Gamma|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "Gompertz|"
-msgid "η (shape)"
-msgstr ""
-
-msgctxt "Gompertz|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Gompertz|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "Gumbel|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "Gumbel|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Gumbel|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "InverseGamma|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "InverseGamma|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "InverseGamma|"
-msgid "θ (scale)"
-msgstr ""
-
-msgctxt "InverseGamma|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "InverseGamma|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "Laplace|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "Laplace|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Laplace|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "Logistic|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "Logistic|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Logistic|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "LogLogistic|"
-msgid "μ (log location)"
-msgstr ""
-
-msgctxt "LogLogistic|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "LogLogistic|"
-msgid "σ (log scale)"
-msgstr ""
-
-msgctxt "LogLogistic|"
-msgid "α (scale)"
-msgstr ""
-
-msgctxt "LogLogistic|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "LogNormal|"
-msgid "μ (log mean)"
-msgstr ""
-
-msgctxt "LogNormal|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "LogNormal|"
-msgid "σ (log std. deviation)"
-msgstr ""
-
-msgctxt "NoncentralChiSquared|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "NoncentralChiSquared|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "NoncentralChiSquared|"
-msgid "κ (noncentrality)"
-msgstr ""
-
-msgctxt "NoncentralF|"
-msgid "ν₁ (df)"
-msgstr ""
-
-msgctxt "NoncentralF|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "NoncentralF|"
-msgid "ν₂ (df)"
-msgstr ""
-
-msgctxt "NoncentralF|"
-msgid "κ (noncentrality)"
-msgstr ""
-
-msgctxt "NoncentralStudentT|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "NoncentralStudentT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "NoncentralStudentT|"
-msgid "κ (noncentrality)"
-msgstr ""
-
-msgctxt "NoncentralStudentT|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "NoncentralStudentT|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "NoncentralT|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "NoncentralT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "NoncentralT|"
-msgid "κ (noncentrality)"
-msgstr ""
-
-msgctxt "Normal|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "Normal|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Normal|"
-msgid "σ (std. deviation)"
-msgstr ""
-
-msgctxt "Normal|"
-msgid "σ² (variance)"
-msgstr ""
-
-msgctxt "Normal|"
-msgid "τ (precision)"
-msgstr ""
-
-msgctxt "Pareto|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "Pareto|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Pareto|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "ShiftedExponential|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "ShiftedExponential|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedExponential|"
-msgid "β (scale)"
-msgstr ""
-
-msgctxt "ShiftedExponential|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "θ (scale)"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "ShiftedGamma|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "θ (scale)"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "λ (rate)"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "ShiftedInverseGamma|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "μ (log location)"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "σ (log scale)"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "α (scale)"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "ShiftedLogLogistic|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedLogNormal|"
-msgid "μ (log mean)"
-msgstr ""
-
-msgctxt "ShiftedLogNormal|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedLogNormal|"
-msgid "σ (log std. deviation)"
-msgstr ""
-
-msgctxt "ShiftedLogNormal|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "λ (shape)"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "ν (drift)"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "α (threshold)"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "σ (noise)"
-msgstr ""
-
-msgctxt "ShiftedWald|"
-msgid "shift"
-msgstr ""
-
-msgctxt "ShiftedWeibull|"
-msgid "shape"
-msgstr ""
-
-msgctxt "ShiftedWeibull|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "ShiftedWeibull|"
-msgid "scale"
-msgstr ""
-
-msgctxt "ShiftedWeibull|"
-msgid "shift"
-msgstr ""
-
-msgctxt "SkewCauchy|"
-msgid "ξ (location)"
-msgstr ""
-
-msgctxt "SkewCauchy|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "SkewCauchy|"
-msgid "ω (scale)"
-msgstr ""
-
-msgctxt "SkewCauchy|"
-msgid "α (slant)"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "λ (skew)"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "p (kurtosis)"
-msgstr ""
-
-msgctxt "SkewedGeneralizedT|"
-msgid "q (kurtosis)"
-msgstr ""
-
-msgctxt "SkewNormal|"
-msgid "ξ (location)"
-msgstr ""
-
-msgctxt "SkewNormal|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "SkewNormal|"
-msgid "ω (scale)"
-msgstr ""
-
-msgctxt "SkewNormal|"
-msgid "α (slant)"
-msgstr ""
-
-msgctxt "SkewT|"
-msgid "ξ (location)"
-msgstr ""
-
-msgctxt "SkewT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "SkewT|"
-msgid "ω (scale)"
-msgstr ""
-
-msgctxt "SkewT|"
-msgid "α (slant)"
-msgstr ""
-
-msgctxt "SkewT|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "StandardT|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "StandardT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "StretchedBeta|"
-msgid "α (shape)"
-msgstr ""
-
-msgctxt "StretchedBeta|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "StretchedBeta|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "StretchedBeta|"
-msgid "min"
-msgstr ""
-
-msgctxt "StretchedBeta|"
-msgid "max"
-msgstr ""
-
-msgctxt "StudentT|"
-msgid "ν (df)"
-msgstr ""
-
-msgctxt "StudentT|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "StudentT|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "StudentT|"
-msgid "σ (scale)"
-msgstr ""
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "μ (location)"
-msgstr ""
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "α (scale)"
-msgstr ""
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "β (shape)"
-msgstr ""
-
-msgctxt "Triangular|"
-msgid "a (min)"
-msgstr ""
-
-msgctxt "Triangular|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Triangular|"
-msgid "b (max)"
-msgstr ""
-
-msgctxt "Triangular|"
-msgid "c (mode)"
-msgstr ""
-
-msgctxt "Uniform|"
-msgid "min"
-msgstr ""
-
-msgctxt "Uniform|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Uniform|"
-msgid "max"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "μ (mean)"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "λ (shape)"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "ν (drift)"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "α (threshold)"
-msgstr ""
-
-msgctxt "Wald|"
-msgid "σ (noise)"
-msgstr ""
-
-msgctxt "Weibull|"
-msgid "shape"
-msgstr ""
-
-msgctxt "Weibull|"
-msgid "Fixed"
-msgstr ""
-
-msgctxt "Weibull|"
-msgid "scale"
-msgstr ""
-
 msgctxt "CompareContinuousDistributions|"
 msgid ""
 "Specify a set of distributions, estimate their parameters, and compare their "
@@ -4212,4 +3544,164 @@ msgctxt "CompareContinuousDistributions|"
 msgid ""
 "Displays the full distribution specification, including its parameters. If "
 "unchecked, only distribution names are shown."
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "μ (mean)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ (std. deviation)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ² (variance)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "τ (precision)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ν (df)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "κ (noncentrality)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "μ (location)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ (scale)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "λ (skew)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "p (kurtosis)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "q (kurtosis)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "α (scale)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "β (shape)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ξ (location)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ω (scale)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "α (slant)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "α (shape)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ν₁ (df)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ν₂ (df)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "θ (scale)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "η (shape)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "μ (log location)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ (log scale)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "μ (log mean)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ (log std. deviation)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "λ (shape)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "ν (drift)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "α (threshold)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "σ (noise)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "shape"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "scale"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "a (location)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "min"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "max"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "θ (location)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "a (min)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "b (max)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "c (mode)"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "shift"
+msgstr ""
+
+msgctxt "DistributionSpecification|"
+msgid "Fixed"
 msgstr ""

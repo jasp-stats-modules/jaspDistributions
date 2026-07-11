@@ -3231,10 +3231,6 @@ msgid "ν (drift), α (threshold), σ (noise), shift"
 msgstr "ν (geser), α (ambang batas), σ (noise), shif"
 
 msgctxt "DistributionSpecification|"
-msgid "default"
-msgstr "bawaan"
-
-msgctxt "DistributionSpecification|"
 msgid "Normal"
 msgstr "Normal"
 
@@ -3409,670 +3405,6 @@ msgstr "Tampilkan pengaturan parameter"
 msgctxt "DistributionSpecification|"
 msgid "Parameters"
 msgstr "Parameter"
-
-msgctxt "Amoroso|"
-msgid "a (location)"
-msgstr "a (lokasi)"
-
-msgctxt "Amoroso|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Amoroso|"
-msgid "θ (scale)"
-msgstr "θ (skala)"
-
-msgctxt "Amoroso|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "Amoroso|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "Beta|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "Beta|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Beta|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "BetaPrime|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "BetaPrime|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "BetaPrime|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "Cauchy|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "Cauchy|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Cauchy|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "CentralF|"
-msgid "ν₁ (df)"
-msgstr "ν₁ (df)"
-
-msgctxt "CentralF|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "CentralF|"
-msgid "ν₂ (df)"
-msgstr "ν₂ (df)"
-
-msgctxt "ChiSquared|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "ChiSquared|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Exponential|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "Exponential|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Exponential|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "Frechet|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "Frechet|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Frechet|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "Frechet|"
-msgid "θ (location)"
-msgstr "θ (lokasi)"
-
-msgctxt "Gamma|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "Gamma|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Gamma|"
-msgid "θ (scale)"
-msgstr "θ (skala)"
-
-msgctxt "Gamma|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "Gamma|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "Gompertz|"
-msgid "η (shape)"
-msgstr "η (bentuk)"
-
-msgctxt "Gompertz|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Gompertz|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "Gumbel|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "Gumbel|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Gumbel|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "InverseGamma|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "InverseGamma|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "InverseGamma|"
-msgid "θ (scale)"
-msgstr "θ (skala)"
-
-msgctxt "InverseGamma|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "InverseGamma|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "Laplace|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "Laplace|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Laplace|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "Logistic|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "Logistic|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Logistic|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "LogLogistic|"
-msgid "μ (log location)"
-msgstr "μ (lokasi log)"
-
-msgctxt "LogLogistic|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "LogLogistic|"
-msgid "σ (log scale)"
-msgstr "σ (skala log)"
-
-msgctxt "LogLogistic|"
-msgid "α (scale)"
-msgstr "α (skala)"
-
-msgctxt "LogLogistic|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "LogNormal|"
-msgid "μ (log mean)"
-msgstr "μ (rerata log)"
-
-msgctxt "LogNormal|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "LogNormal|"
-msgid "σ (log std. deviation)"
-msgstr "σ (deviasi std. log)"
-
-msgctxt "NoncentralChiSquared|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "NoncentralChiSquared|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "NoncentralChiSquared|"
-msgid "κ (noncentrality)"
-msgstr "κ (nonpusat)"
-
-msgctxt "NoncentralF|"
-msgid "ν₁ (df)"
-msgstr "ν₁ (df)"
-
-msgctxt "NoncentralF|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "NoncentralF|"
-msgid "ν₂ (df)"
-msgstr "ν₂ (df)"
-
-msgctxt "NoncentralF|"
-msgid "κ (noncentrality)"
-msgstr "κ (nonpusat)"
-
-msgctxt "NoncentralStudentT|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "NoncentralStudentT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "NoncentralStudentT|"
-msgid "κ (noncentrality)"
-msgstr "κ (nonpusat)"
-
-msgctxt "NoncentralStudentT|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "NoncentralStudentT|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "NoncentralT|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "NoncentralT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "NoncentralT|"
-msgid "κ (noncentrality)"
-msgstr "κ (nonpusat)"
-
-msgctxt "Normal|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "Normal|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Normal|"
-msgid "σ (std. deviation)"
-msgstr "σ (deviasi std.)"
-
-msgctxt "Normal|"
-msgid "σ² (variance)"
-msgstr "σ² (varians)"
-
-msgctxt "Normal|"
-msgid "τ (precision)"
-msgstr "τ (presisi)"
-
-msgctxt "Pareto|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "Pareto|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Pareto|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "ShiftedExponential|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "ShiftedExponential|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedExponential|"
-msgid "β (scale)"
-msgstr "β (skala)"
-
-msgctxt "ShiftedExponential|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedGamma|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "ShiftedGamma|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedGamma|"
-msgid "θ (scale)"
-msgstr "θ (skala)"
-
-msgctxt "ShiftedGamma|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "ShiftedGamma|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "ShiftedGamma|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "θ (scale)"
-msgstr "θ (skala)"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "λ (rate)"
-msgstr "λ (tingkat)"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "ShiftedInverseGamma|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "μ (log location)"
-msgstr "μ (lokasi log)"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "σ (log scale)"
-msgstr "σ (skala log)"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "α (scale)"
-msgstr "α (skala)"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "ShiftedLogLogistic|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedLogNormal|"
-msgid "μ (log mean)"
-msgstr "μ (rerata log)"
-
-msgctxt "ShiftedLogNormal|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedLogNormal|"
-msgid "σ (log std. deviation)"
-msgstr "σ (deviasi std. log)"
-
-msgctxt "ShiftedLogNormal|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedWald|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "ShiftedWald|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedWald|"
-msgid "λ (shape)"
-msgstr "λ (bentuk)"
-
-msgctxt "ShiftedWald|"
-msgid "ν (drift)"
-msgstr "ν (layang)"
-
-msgctxt "ShiftedWald|"
-msgid "α (threshold)"
-msgstr "α (ambang batas)"
-
-msgctxt "ShiftedWald|"
-msgid "σ (noise)"
-msgstr "σ (bising)"
-
-msgctxt "ShiftedWald|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "ShiftedWeibull|"
-msgid "shape"
-msgstr "bentuk"
-
-msgctxt "ShiftedWeibull|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "ShiftedWeibull|"
-msgid "scale"
-msgstr "skala"
-
-msgctxt "ShiftedWeibull|"
-msgid "shift"
-msgstr "shif"
-
-msgctxt "SkewCauchy|"
-msgid "ξ (location)"
-msgstr "ξ (lokasi)"
-
-msgctxt "SkewCauchy|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "SkewCauchy|"
-msgid "ω (scale)"
-msgstr "ω (skala)"
-
-msgctxt "SkewCauchy|"
-msgid "α (slant)"
-msgstr "α (miring)"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "λ (skew)"
-msgstr "λ (condong)"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "p (kurtosis)"
-msgstr "p (kurtosis)"
-
-msgctxt "SkewedGeneralizedT|"
-msgid "q (kurtosis)"
-msgstr "q (kurtosis)"
-
-msgctxt "SkewNormal|"
-msgid "ξ (location)"
-msgstr "ξ (lokasi)"
-
-msgctxt "SkewNormal|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "SkewNormal|"
-msgid "ω (scale)"
-msgstr "ω (skala)"
-
-msgctxt "SkewNormal|"
-msgid "α (slant)"
-msgstr "α (miring)"
-
-msgctxt "SkewT|"
-msgid "ξ (location)"
-msgstr "ξ (lokasi)"
-
-msgctxt "SkewT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "SkewT|"
-msgid "ω (scale)"
-msgstr "ω (skala)"
-
-msgctxt "SkewT|"
-msgid "α (slant)"
-msgstr "α (miring)"
-
-msgctxt "SkewT|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "StandardT|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "StandardT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "StretchedBeta|"
-msgid "α (shape)"
-msgstr "α (bentuk)"
-
-msgctxt "StretchedBeta|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "StretchedBeta|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "StretchedBeta|"
-msgid "min"
-msgstr "min"
-
-msgctxt "StretchedBeta|"
-msgid "max"
-msgstr "maks"
-
-msgctxt "StudentT|"
-msgid "ν (df)"
-msgstr "ν (df)"
-
-msgctxt "StudentT|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "StudentT|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "StudentT|"
-msgid "σ (scale)"
-msgstr "σ (skala)"
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "μ (location)"
-msgstr "μ (lokasi)"
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "α (scale)"
-msgstr "α (skala)"
-
-msgctxt "SymmetricGeneralizedNormal|"
-msgid "β (shape)"
-msgstr "β (bentuk)"
-
-msgctxt "Triangular|"
-msgid "a (min)"
-msgstr "a (min)"
-
-msgctxt "Triangular|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Triangular|"
-msgid "b (max)"
-msgstr "b (maks)"
-
-msgctxt "Triangular|"
-msgid "c (mode)"
-msgstr "c (mode)"
-
-msgctxt "Uniform|"
-msgid "min"
-msgstr "min"
-
-msgctxt "Uniform|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Uniform|"
-msgid "max"
-msgstr "maks"
-
-msgctxt "Wald|"
-msgid "μ (mean)"
-msgstr "μ (rerata)"
-
-msgctxt "Wald|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Wald|"
-msgid "λ (shape)"
-msgstr "λ (bentuk)"
-
-msgctxt "Wald|"
-msgid "ν (drift)"
-msgstr "ν (layang)"
-
-msgctxt "Wald|"
-msgid "α (threshold)"
-msgstr "α (ambang batas)"
-
-msgctxt "Wald|"
-msgid "σ (noise)"
-msgstr "σ (bising)"
-
-msgctxt "Weibull|"
-msgid "shape"
-msgstr "bentuk"
-
-msgctxt "Weibull|"
-msgid "Fixed"
-msgstr "Tetap"
-
-msgctxt "Weibull|"
-msgid "scale"
-msgstr "skala"
 
 msgctxt "CompareContinuousDistributions|"
 msgid ""
@@ -4270,3 +3602,203 @@ msgid ""
 msgstr ""
 "Menampilkan spesifikasi distribusi lengkap, menyertakan parameternya. Jika "
 "tidak dicentang, hanya nama distribusi ditampilkan."
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "μ (mean)"
+msgstr "μ (rerata)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ (std. deviation)"
+msgstr "σ (deviasi std.)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ² (variance)"
+msgstr "σ² (varians)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "τ (precision)"
+msgstr "τ (presisi)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ν (df)"
+msgstr "ν (df)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "κ (noncentrality)"
+msgstr "κ (nonpusat)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "μ (location)"
+msgstr "μ (lokasi)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ (scale)"
+msgstr "σ (skala)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "λ (skew)"
+msgstr "λ (condong)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "p (kurtosis)"
+msgstr "p (kurtosis)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "q (kurtosis)"
+msgstr "q (kurtosis)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "α (scale)"
+msgstr "α (skala)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "β (shape)"
+msgstr "β (bentuk)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ξ (location)"
+msgstr "ξ (lokasi)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ω (scale)"
+msgstr "ω (skala)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "α (slant)"
+msgstr "α (miring)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "α (shape)"
+msgstr "α (bentuk)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ν₁ (df)"
+msgstr "ν₁ (df)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ν₂ (df)"
+msgstr "ν₂ (df)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "θ (scale)"
+msgstr "θ (skala)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "η (shape)"
+msgstr "η (bentuk)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "μ (log location)"
+msgstr "μ (lokasi log)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ (log scale)"
+msgstr "σ (skala log)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "μ (log mean)"
+msgstr "μ (rerata log)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ (log std. deviation)"
+msgstr "σ (deviasi std. log)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "λ (shape)"
+msgstr "λ (bentuk)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "ν (drift)"
+msgstr "ν (layang)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "α (threshold)"
+msgstr "α (ambang batas)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "σ (noise)"
+msgstr "σ (bising)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "shape"
+msgstr "bentuk"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "scale"
+msgstr "skala"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "a (location)"
+msgstr "a (lokasi)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "min"
+msgstr "min"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "max"
+msgstr "maks"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "θ (location)"
+msgstr "θ (lokasi)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "a (min)"
+msgstr "a (min)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "b (max)"
+msgstr "b (maks)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "c (mode)"
+msgstr "c (mode)"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "shift"
+msgstr "shif"
+
+#, fuzzy
+msgctxt "DistributionSpecification|"
+msgid "Fixed"
+msgstr "Tetap"
